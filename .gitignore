@@ -1,1 +1,7 @@
 *.hdf5
+class exercise/CSE164_Excercise_HoughTransform.ipynb
+final project/MedMNIST/lableed/
+final project/MedMNIST/test/
+final project/MedMNIST/unlabeled/
+group/
+slides/
